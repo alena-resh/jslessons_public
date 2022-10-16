@@ -1,1 +1,0 @@
-/Users/alena.reshetnikova/JSlessons/lessons/Lesson 3/calculatorifswitch.js
