@@ -54,5 +54,5 @@ if (sort == americano && size == small) {
 }
 }
 
-console.log(Coffee(latte, medium))
+console.log(Coffee(cappuccino, large))
 console.log(`Please, enjoy your coffee! ;)`)
