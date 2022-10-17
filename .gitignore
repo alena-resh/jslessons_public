@@ -1,0 +1,12 @@
+.snopack
+build
+dist
+node_modules
+.idea
+.yarn/cache
+.yarn/install-state.gz
+.vscode
+.DS_Store
+storybook-static
+tests
+.env
