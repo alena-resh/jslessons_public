@@ -1,5 +1,4 @@
 // Ternary Operator
-
 // Complete function to describe the age, <= 12 - kid, >= 13 && age <= 17 - teenager, age >= 18 && age <= 64 - elderly
 
 // function describeAge(age) {
