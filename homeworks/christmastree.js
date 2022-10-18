@@ -34,17 +34,16 @@ console.log(str)
 // 4 8 11 13 
 // 5 9 12 14 15
 
+let row = 5
+let str =''
 
-// let row = 5
-// let str = ''
-
-// for (let i = 1; i <= row; i++) {
-//     let num = i
-//     for (let j = 1; j <= i; j++) {
-//         str += num + ' ' 
-//         num = num + (row - j)
-//     } 
-//     str += '\n' 
-// }
-// console.log(str)
+for (let i = 1; i <= row; i++) {
+    let num = i
+    for (let j = 1; j <= i; j++) {
+        str += num + ' ' 
+        num = num + (row - j)
+    } 
+    str += '\n' 
+}
+console.log(str)
 
