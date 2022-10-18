@@ -6,25 +6,25 @@
 //   *******
 //  *********
 
-let n = 5;
-let str = ''
-for (let i = 1; i <= n; i++)
-{
-   for (let j = n; j >= i; j--)
-{
-    str += ' '
-}
-   for (let k = 1; k <= i; k++)
-{
-    str += '*' 
-}
-for (let k = i - 1; k >= 1; k--)
-     {
-        str += '*'  
-     }
-str += '\n'
-}
-console.log(str)
+// let n = 5;
+// let str = ''
+// for (let i = 1; i <= n; i++)
+// {
+//    for (let j = n; j >= i; j--)
+// {
+//     str += ' '
+// }
+//    for (let k = 1; k <= i; k++)
+// {
+//     str += '*' 
+// }
+// for (let k = i - 1; k >= 1; k--)
+//      {
+//         str += '*'  
+//      }
+// str += '\n'
+// }
+// console.log(str)
 
 // write a pyramid
 
@@ -35,7 +35,7 @@ console.log(str)
 // 5 9 12 14 15
 
 let row = 5
-let str =''
+let str = ''
 
 for (let i = 1; i <= row; i++) {
     let num = i
