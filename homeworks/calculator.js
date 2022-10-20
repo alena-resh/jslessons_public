@@ -31,7 +31,7 @@ else
     return `This operator is not allowed, please, enter another operator!`
 }
 }
-console.log(calculator (6, 10, '/'))
+console.log(calculator (6, 10, '+'))
 
 
 // switch
@@ -59,4 +59,4 @@ break
 default: return `This operator is not allowed, please, enter another operator!`
 }
 }
-console.log(calculator (10, 5, '/'))
+console.log(calculator (10, 100, '/'))
