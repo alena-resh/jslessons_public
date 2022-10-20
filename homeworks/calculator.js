@@ -23,7 +23,7 @@ else if (operator == '/')
       return `'Zero' is not allowed, please, enter another number!`
   } else 
   {
-  return result = a / b
+  return a / b
   }
 } 
 else 
@@ -31,7 +31,7 @@ else
     return `This operator is not allowed, please, enter another operator!`
 }
 }
-console.log(calculator (6, 10, '*'))
+console.log(calculator (6, 10, '/'))
 
 
 // switch
@@ -52,7 +52,7 @@ break
 case '/': switch (b) {
   case 0 : return `'Zero' is not allowed, please, enter another number!`
   break
-  default : return result = a / b
+  default : return a / b
 } 
 break
   
