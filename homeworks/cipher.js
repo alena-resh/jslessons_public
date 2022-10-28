@@ -1,6 +1,6 @@
 // Come up with your own cipher, as well as a program that will encode and then decode to it
 
-let str = "Hello world, my name is Alena! I have been learning JavaScript :) ";
+let str = "Hello world, my name is Alena! I have been learning JavaScript and Cypress :) ";
 let result = []; // arr
 let result_2 = ''; // str
 
